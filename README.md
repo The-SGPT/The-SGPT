@@ -7,8 +7,8 @@ I am working on **NOTHING HAHA FUCK YOU**
 
 Ok but seriously, I'm currently working on game dev as well as making NotITG modcharts.
 
-My YT channel got terminated while I was sleeping.
+- My YT channel got terminated while I was sleeping.
 
-Typed all this shit on my laptop
+- Typed all this shit on my laptop
 
-This is so fucking dumb
+- This is so fucking dumb
