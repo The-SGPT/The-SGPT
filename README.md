@@ -1,12 +1,11 @@
 # *Hello there~*
 
-I am haya, a goofy ahh programmer that works in mysterious ways.
+I am **haya (any pronouns)**, a frontend developer who makes mods for games, or build an entirely new thing from scratch. I'm not a webdev.
+
 Please do not use this readme as a resume.
 
-## Currently working on
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,godot,python,lua,haxe,haxeflixel)](https://skillicons.dev)
 
-- Kart mods
-- Game dev
-- The final FNF mod I'm going to be working on.
+![Github trends](https://api.githubtrends.io/user/svg/haya3218/langs?time_range=six_months&use_percent=True&group=other&compact=True&theme=dark)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=haya3218)](https://github.com/anuraghazra/github-readme-stats)
