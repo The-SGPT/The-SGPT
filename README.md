@@ -1,14 +1,12 @@
-### Hi there 👋
+# *Hello there~*
 
-I'm haya3218/hyaa8123, a lousey coder who does absolutely nothing but that.
+I am haya, a goofy ahh programmer that works in mysterious ways.
+Please do not use this readme as a resume.
 
-I am working on **NOTHING HAHA FUCK YOU**
+## Currently working on
 
+- Kart mods
+- Game dev
+- The final FNF mod I'm going to be working on.
 
-Ok but seriously, I'm currently working on game dev as well as making NotITG modcharts.
-
-- My YT channel got terminated while I was sleeping.
-
-- Typed all this shit on my laptop
-
-- This is so fucking dumb
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=haya3218)](https://github.com/anuraghazra/github-readme-stats)
